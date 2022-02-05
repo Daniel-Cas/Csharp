@@ -4,11 +4,12 @@ namespace ConsoleApp1
 {
     class Program
     {
+        /*
         static void Main(string[] args)
         {
             
 
-            var mensaje = "Hola";
+            var mensaje = "Daniel";
             Console.WriteLine("Hello World"); 
             mensaje = Console.ReadLine();
 
@@ -16,5 +17,6 @@ namespace ConsoleApp1
 
 
         }
+        */
     }
 }
