@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Text;
 using static System.Console;
 using static System.Convert;
 
@@ -519,6 +520,36 @@ namespace ConsoleApp1
 
             CalculateBanknotes(import);
             */
+            #endregion
+
+            #region Strings
+            /*
+            string myString = "";
+            string stringEmpty = string.Empty;
+            string stringWord = "Hola mundo";
+
+            stringEmpty = "Hola";
+            */
+            #endregion
+
+            #region Date format
+            /*
+            var today = new DateTime();
+            today = DateTime.Now;
+
+            WriteLine(today);
+
+            StringBuilder sentence = new StringBuilder();
+
+            sentence.Append("Hola");
+            WriteLine(sentence.Capacity);
+            */
+            #endregion
+
+            #region Excersises with Strings
+
+            
+
             #endregion
         }
 
